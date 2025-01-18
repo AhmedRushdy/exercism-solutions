@@ -38,4 +38,4 @@ To explore the solutions or contribute to this repository, follow these steps.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/exercism-solutions.git
+   git clone https://github.com/AhmedRushdy/exercism-solutions
